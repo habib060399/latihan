@@ -29,7 +29,7 @@
                     <a class="nav-link active mx-1" aria-current="page" href="index.php">Home</a>
                     <a class="nav-link mx-1" href="tabel.php">Tabel</a>
                     <a class="nav-link mx-1" href="calculate.php">Calculate</a>
-                    <a class="nav-link disabled mx-1" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+                    <a class="nav-link mx-1" href="Atm.php">Atm</a>
                 </div>
             </div>
         </div>
