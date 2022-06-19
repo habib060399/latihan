@@ -30,7 +30,7 @@
                         <td><?php echo $data['nim'] ?></td>
                         <td><?php echo $data['keterangan'] ?></td>
                         <td>
-                            <a href="calculate.php" type="submit" class="btn btn-primary btn-sm" name="detail">Detail</a>
+                            <a href="DetailMahasiswa.php?id=<?php echo $data['id'] ?>" type="submit" class="btn btn-primary btn-sm" name="detail">Detail</a>
                             <button class="btn btn-primary btn-sm">Hapus</button>
                         </td>
                     </tr>
